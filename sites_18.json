@@ -46,5 +46,41 @@
     "isActive": true,
     "status": "可用",
     "reverseOrder": false
+  },
+  {
+    "key": "乐播资源",
+    "id": 5,
+    "name": "乐播资源",
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "https://lbjx9.com/?url=",
+    "group": "成人",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "key": "探探资源",
+    "id": 6,
+    "name": "探探资源",
+    "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "https://jiexi.ttbfp1.com/m3u8/?url=",
+    "group": "成人",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "key": "老鸭资源",
+    "id": 7,
+    "name": "老鸭资源",
+    "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "https://player.77lehuo.com/aliplayer/?url=",
+    "group": "成人",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
   }
 ]
