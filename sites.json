@@ -27,15 +27,15 @@
     "key": "优质资源",
     "id": 3,
     "name": "优质资源",
-    "api": "https://api.1080zyku.com/inc/api.php?ac=list",
+    "api": "https://api.1080zyku.com/inc/ldg_api.php",
     "download": "",
-    "jiexiUrl": "https://m3u8.vkb.cc/m3u8-p2p/?url=",
+    "jiexiUrl": "https://hd.iapijy.com/play?url=",
     "group": "默认",
     "isActive": true,
     "status": "可用",
-    "reverseOrder": true
+    "reverseOrder": false
   },
-{
+  {
     "key": "金鹰资源",
     "id": 4,
     "name": "金鹰资源",
@@ -45,6 +45,30 @@
     "group": "默认",
     "isActive": true,
     "status": "可用",
-    "reverseOrder": true
+    "reverseOrder": false
+  },
+  {
+    "key": "博天堂伦理",
+    "id": 5,
+    "name": "博天堂伦理",
+    "api": "http://bttcj.com/inc/sapi.php",
+    "download": "",
+    "jiexiUrl": "https://hd.iapijy.com/play?url=",
+    "group": "成人",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "key": "环亚资源",
+    "id": 6,
+    "name": "环亚资源",
+    "api": "http://wmcj8.com/inc/sapi.php",
+    "download": "",
+    "jiexiUrl": "https://hd.iapijy.com/play?url=",
+    "group": "默认",
+    "isActive": true,
+    "status": "成人",
+    "reverseOrder": false
   }
 ]
