@@ -66,9 +66,9 @@
     "api": "http://wmcj8.com/inc/sapi.php",
     "download": "",
     "jiexiUrl": "https://hd.iapijy.com/play?url=",
-    "group": "默认",
+    "group": "成人",
     "isActive": true,
-    "status": "成人",
+    "status": "可用",
     "reverseOrder": false
   }
 ]
