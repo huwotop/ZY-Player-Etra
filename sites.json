@@ -48,10 +48,10 @@
     "reverseOrder": false
   },
   {
-    "key": "博天堂伦理",
+    "key": "乐播资源",
     "id": 5,
-    "name": "博天堂伦理",
-    "api": "http://bttcj.com/inc/sapi.php",
+    "name": "乐播资源",
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
     "download": "",
     "jiexiUrl": "https://hd.iapijy.com/play?url=",
     "group": "成人",
@@ -60,10 +60,10 @@
     "reverseOrder": false
   },
   {
-    "key": "环亚资源",
+    "key": "探探资源",
     "id": 6,
-    "name": "环亚资源",
-    "api": "http://wmcj8.com/inc/sapi.php",
+    "name": "探探资源",
+    "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
     "download": "",
     "jiexiUrl": "https://hd.iapijy.com/play?url=",
     "group": "成人",
