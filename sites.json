@@ -1,0 +1,50 @@
+[
+  {
+    "key": "天空云",
+    "id": 1,
+    "name": "天空云",
+    "api": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/at/xml/",
+    "download": "",
+    "jiexiUrl": "https://jx.7kjx.com/?url=",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "key": "八戒云",
+    "id": 2,
+    "name": "八戒云",
+    "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
+    "download": "",
+    "jiexiUrl": "https://m3u8.vkb.cc/m3u8-p2p/?url=",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "key": "优质资源",
+    "id": 3,
+    "name": "优质资源",
+    "api": "https://api.1080zyku.com/inc/api.php?ac=list",
+    "download": "",
+    "jiexiUrl": "https://m3u8.vkb.cc/m3u8-p2p/?url=",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+{
+    "key": "金鹰资源",
+    "id": 4,
+    "name": "金鹰资源",
+    "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/",
+    "download": "",
+    "jiexiUrl": "https://hd.iapijy.com/play?url=",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  }
+]
